@@ -1,6 +1,8 @@
 # TP1-cg
 Jogo criado baseado no Galaxian de ATARI.
 
+Link da Gameplay: https://www.youtube.com/watch?v=0hxTlufbedw
+
 Desenvolvido por: Alex Meireles Santos Almeida e Darmes Araujo Dias.
 
 1) Para realizar a instalação das bibliotecas necessárias, devemos acessar o Terminal do Linux. Para isso, pressione ctrl + alt + t ou procure por Terminal no Menu Linux.
